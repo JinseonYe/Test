@@ -1,5 +1,9 @@
 package calculator;
 
+import calculator.mineral.Bronze;
+import calculator.mineral.Gold;
+import calculator.mineral.Silver;
+
 public class Sample {
 	public static void main(String[] args) {
 		Calculator cal = new Calculator();
@@ -32,5 +36,11 @@ public class Sample {
 		//평균 구하기
 		int[] arr = {1, 2, 10};
 		System.out.println(cal.avegrage(arr));
+
+		//미네랄 계산기
+		MineralCalculator mineralCalculator = new MineralCalculator();
+		mineralCalculator.add(new Gold());
+		mineralCalculator.add(new Silver());
+		mineralCalculator.add(new Bronze());
 	}
 }
