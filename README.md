@@ -13,7 +13,7 @@
 2. MineralCalculator 클래스의 add 메서드 추가하지 않는 방법을 생각해서, 코드를 수정하세요.
 
 <p align="center">
-  <img src="[https://github.com/JinseonYe/calculator_project/assets/117062933/74fc28e9-fd6a-4124-b147-11e9c0a0b2c3]" alt="logo"/>
+  <img src="[![image](https://github.com/JinseonYe/calculator_project/assets/117062933/74fc28e9-fd6a-4124-b147-11e9c0a0b2c3)]" alt="logo"/>
 </p> 
 
 https://github.com/JinseonYe/calculator_project/assets/117062933/74fc28e9-fd6a-4124-b147-11e9c0a0b2c3
