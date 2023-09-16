@@ -12,7 +12,6 @@
 1. 광물이 추가될 때마다 (자수정, 오팔, 다이아… 쭉쭉쭉 추가 예정) add메서드를 추가해야하는 단점이있는 코드.
 2. MineralCalculator 클래스의 add 메서드 추가하지 않는 방법을 생각해서, 코드를 수정하세요.
 
-![image](https://github.com/JinseonYe/calculator_project/assets/117062933/ea6f60ab-0c2b-464a-ba7f-73c98c49990d)
 
+![image](https://github.com/JinseonYe/calculator_project/assets/117062933/74fc28e9-fd6a-4124-b147-11e9c0a0b2c3)
 
-![image](https://github.com/JinseonYe/calculator_project/assets/117062933/7f536337-0671-434a-b171-e1f71026cce3)
